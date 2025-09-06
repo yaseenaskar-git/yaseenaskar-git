@@ -27,7 +27,11 @@ Jira and Agile methodologies
 ### Long Term Goals & Ambitions:
 Continue learning and developing sufficient skills to excel in various aspects of computer science. I would also like to take advantage of this learning journey to identify my area of expertise. As of now, I am leaning towards cyber security and software engineering. 
 
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
