@@ -14,6 +14,17 @@ In university, I worked on several Python projects including building a database
 
 This summer, in a internship with NBB (Bahrain), I used Power Apps to create a application for the procurement employees to make and record purchase orders and requests. 
 
+### Learning Goals:
+C language 
+AI power development (GitHub Copilot)
+Docker and Google Cloud
+Automated testing (CI/CD testing with Github Actions)
+Jira and Agile methodologies 
+*All of these goals are from the courses I am currently taking*
+
+## Long Term Goals & Ambitions: 
+Continue learning and developing sufficient skills to excel in various aspects of computer science. I would also like to take advantage of this learning journey to identify my area of expertise. As of now, I am leaning towards cyber security and software engineering. 
+
 <!--
 **yaseenaskar-git/yaseenaskar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
