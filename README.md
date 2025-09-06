@@ -8,7 +8,7 @@ I am currently a Junior at the University of Rio Grande, studying computer scien
 
 ### Projects:
 
-In highschool, created a website using HTML and a databse for a business using Access.
+In highschool,I created a website using HTML and a databse for a business using Access.
 
 In university, I worked on several Python projects including building a database system for highschool student records. 
 
@@ -24,6 +24,10 @@ Jira and Agile methodologies
 
 ### Long Term Goals & Ambitions:
 Continue learning and developing sufficient skills to excel in various aspects of computer science. I would also like to take advantage of this learning journey to identify my area of expertise. As of now, I am leaning towards cyber security and software engineering. 
+
+[This is a link to my LinkedIN page, more than happt to connect and talk!](http://linkedin.com/in/yaseen-askar-aa1589208)
+
+
 
 <!--
 **yaseenaskar-git/yaseenaskar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
