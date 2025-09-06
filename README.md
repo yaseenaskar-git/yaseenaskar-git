@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&width=500&lines=Welcome+to+Yaseen+Husain's+Repository!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&width=450&lines=Welcome+to+Yaseen+Husain's+Repository!)](https://git.io/typing-svg)
 
 ## About me:
 I am currently a Junior at the University of Rio Grande, studying computer science. I describe myself as someone who combines pation for continous learning and development with dedication to excel and be of greatest value to my community.
