@@ -2,6 +2,8 @@
 ## About me:
 I am currently a Junior at the University of Rio Grande, studying computer science. I describe myself as someone who combines pation for continous learning and development with dedication to excel and be of greatest value to my community.
 
+[This is a link to my LinkedIN page, more than happt to connect and talk!](http://linkedin.com/in/yaseen-askar-aa1589208)
+
 ### Technical Skills:
 **Programming Languages:** HTML & Python
 **Other:** Microsoft Power Apps, Microsoft Access (*Beginner level skills*)
@@ -25,7 +27,7 @@ Jira and Agile methodologies
 ### Long Term Goals & Ambitions:
 Continue learning and developing sufficient skills to excel in various aspects of computer science. I would also like to take advantage of this learning journey to identify my area of expertise. As of now, I am leaning towards cyber security and software engineering. 
 
-[This is a link to my LinkedIN page, more than happt to connect and talk!](http://linkedin.com/in/yaseen-askar-aa1589208)
+
 
 
 
