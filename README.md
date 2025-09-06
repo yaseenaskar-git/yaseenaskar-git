@@ -22,7 +22,7 @@ Automated testing (CI/CD testing with Github Actions)
 Jira and Agile methodologies 
 *All of these goals are from the courses I am currently taking*
 
-## Long Term Goals & Ambitions: 
+### Long Term Goals & Ambitions:
 Continue learning and developing sufficient skills to excel in various aspects of computer science. I would also like to take advantage of this learning journey to identify my area of expertise. As of now, I am leaning towards cyber security and software engineering. 
 
 <!--
