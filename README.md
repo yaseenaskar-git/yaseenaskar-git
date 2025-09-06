@@ -1,21 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&width=450&lines=Welcome+to+Yaseen+Husain's+Repository!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&width=450add&lines=Welcome+to+Yaseen+Husain's+Repository!)](https://git.io/typing-svg)
 
 ## About me:
 I am currently a Junior at the University of Rio Grande, studying computer science. I describe myself as someone who combines pation for continous learning and development with dedication to excel and be of greatest value to my community.
 
-[This is a link to my LinkedIN page, more than happt to connect and talk!](http://linkedin.com/in/yaseen-askar-aa1589208)
+[This is a link to my LinkedIN page, more than happy to connect and talk!](http://linkedin.com/in/yaseen-askar-aa1589208)
 
 ### Technical Skills:
 **Programming Languages:** HTML & Python
-**Other:** Microsoft Power Apps, Microsoft Access (*Beginner level skills*)
+**Other:** Microsoft Power Apps, Microsoft Access (*Beginner to intermediate level skills*)
 
 ### Projects:
 
-In highschool,I created a website using HTML and a databse for a business using Access.
+In highschool, I created a website using HTML and a databse for a business using Access.
 
 In university, I worked on several Python projects including building a database system for highschool student records. 
 
-This summer, in a internship with NBB (Bahrain), I used Power Apps to create a application for the procurement employees to make and record purchase orders and requests. 
+Summer 2025, in a internship with NBB (Bahrain), I used Power Apps to create a application for the procurement employees, to manage and record purchase orders and requests. 
 
 ### Learning Goals:
 C language 
