@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 this is Yaseen Husain's Repository
+## About me:
+I am currently a Junior at the University of Rio Grande, studying computer science. I describe myself as someone who combines pation for continous learning and development with dedication to excel and be of greatest value to my community.
+
 
 <!--
 **yaseenaskar-git/yaseenaskar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
